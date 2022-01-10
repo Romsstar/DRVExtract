@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Text;
 
-namespace WindowsFormsApplication1.Properties
+namespace DRV.Properties
 {
     public class DRVEntry
     {
